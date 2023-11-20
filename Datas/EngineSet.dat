@@ -1,0 +1,13 @@
+[Engine]
+Master=RQA6AFwAUQBCAG8AeABcADEANgA3ADgAMgAwADIAXABhjMtoZWhcAEMAQwBCAHIAaQBkAGcAZQAzAFwAZABlAGUAcABzAGsAeQAuAGUAeABlAA==
+Slave=
+MasterOpenBook=
+SlaveOpenBook=
+MasterUseDeep=1
+SlaveUseDeep=1
+MasterDeep=8
+SlaveDeep=8
+MasterTime=3
+SlaveTime=3
+MasterAdd=
+SlaveAdd=
